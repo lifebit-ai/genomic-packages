@@ -1,0 +1,39 @@
+package_name,url,Last commit year,Last commit month,Human Relevant?,title
+cegwas,https://github.com/AndersenLab/cegwas/,2020,3,0,Pipeline for performing GWAS mappings with C. elegans phenotype data
+FGEM,https://github.com/CreRecombinase/FGEM/,,,1,Functional GWAS by Expectation Maximization
+RColumbo,https://github.com/CreRecombinase/RColumbo/,2017,Feb,0,R package for investigating expression level mediation of GWAS association
+Firth,https://github.com/DavisBrian/Firth/,2015,7,0,Firth's bias reduced logistic regression approach to GWAS
+gwasr,https://github.com/DavisBrian/gwasr/,2015,8,0,Tools to make gwas easier
+dmGWAS2,https://github.com/aaronwolen/dmGWAS2/,2015,6,1,A fork of dmGWAS (http://bioinfo.mc.vanderbilt.edu/dmGWAS)
+gwasio,https://github.com/aaronwolen/gwasio/,2019,12,1,Standardize heterogeneous GWAS results.
+FarmCPUpp,https://github.com/amkusmec/FarmCPUpp/,2019,6,1,Perform GWAS using the FarmCPU model.
+NaturalGWAS,https://github.com/bcm-uga/NaturalGWAS/,2019,12,1,"R package for the special issue ""MER - Natural GWAS"""
+easyGWAS,https://github.com/camult/easyGWAS/,2017,11,1,R interface to perform GWAS using Factored Spectrally Transformed Linear Mixed Models (FaST-LMM)
+GUESSFM,https://github.com/chr1swallace/GUESSFM/,2019,2,1,R package for fine mapping genetic associations in imputed GWAS data.
+fastman,https://github.com/danioreo/fastman/,2016,12,1,fastman is a R package that plots GWAS summaries to Manhattan plots in a fast way.
+rolypoly,https://github.com/dcalderon/rolypoly/,2019,9,1,Method for identifying trait-relevant gene annotations from GWAS summary statistics.
+GGPA,https://github.com/dongjunchung/GGPA/,2020,2,1,graph-GPA: A graphical model for prioritizing GWAS results and investigating pleiotropic architecture
+martini,https://github.com/hclimente/martini/,2020,10,1,"🍸Systems-biology approach to GWAS, now in R!"
+XGR,https://github.com/hfang-bristol/XGR/,2020,7,1,An R package to increase interpretability of genes and SNPs (eg identified from GWAS and eQTL mapping)
+XOR,https://github.com/hfang-bristol/XOR/,2020,7,1,An R package for deciphering genes and SNPs (eg identified from GWAS and eQTLs) using ontologies
+MTaSPUs,https://github.com/ikwak2/MTaSPUs/,NA,NA,NA,Multiple-trait aSPU test based on GWAS summary statistics.
+cFDR-common-controls,https://github.com/jamesliley/cFDR-common-controls/,2016,10,1,"This repository contains R functions to compute the 'Conditional False Discovery Rate', a method to analyse genome-wide association studies (GWAS) for related diseases originally proposed by Andreasson et al (2013), in the case where the two GWAS have shared controls.These functions widen the scope of the existing technique and enable improved p…"
+lmem.gwaser,https://github.com/kbroman/lmem.gwaser/,2017,9,1,R package lmem.gwaser
+lmmlite,https://github.com/kbroman/lmmlite/,2019,3,1,Simple port of pylmm: linear mixed models for GWAS
+manqq,https://github.com/kindlychung/manqq/,2014,8,1,Manhattan and QQ plot for GWAS results
+SNPath,https://github.com/lschen-stat/SNPath/,2017,8,1,An R package for pathway analysis of GWAS data (SNPath)
+snpEnrichment,https://github.com/mcanouil/snpEnrichment/,2019,12,1,Implements classes and methods for large scale SNP enrichment analysis (e.g. SNPs associated with genes expression in a GWAS signal)
+simGWAS,https://github.com/mdfortune/simGWAS/,2018,3,1,Simulating the expected output from a GWAS with a given causal model.
+postgwas,https://github.com/merns/postgwas/,2014,7,1,postgwas package for R
+D3ManhattanPlots,https://github.com/nstrayer/D3ManhattanPlots/,2015,8,0,An R HTMLWidget for making interactive manhattan plots for GWAS.
+qqman2,https://github.com/oyhel/qqman2/,2015,8,0,Manhattan and QQ plot creator for GWAS
+geneSLOPE,https://github.com/psobczyk/geneSLOPE/,2019,6,1,GWAS with SLOPE
+mxr,https://github.com/roslen/mxr/,2015,9,0,A Package of GWAS Pipeline Building Blocks
+myGWAS,https://github.com/samhuairen/myGWAS/,2016,12,0,the package is a collection of GWAS functions to doing GWAS in R
+GWASTools,https://github.com/smgogarten/GWASTools/,2020,9,1,"Classes for storing very large GWAS data sets and annotation, and functions for GWAS data cleaning and analysis"
+qqman,https://github.com/stephenturner/qqman/,2018,6,1,R code for creating Manhattan plots and Q-Q plots for GWAS
+survivR,https://github.com/suchestoncampbelllab/survivR/,2018,10,1,GWAS Survival Package in R
+metabf,https://github.com/trochet/metabf/,2017,1,1,R package to perform Bayesian meta analysis on GWAS summary statistics
+lassosum,https://github.com/tshmak/lassosum/,2020,9,1,LASSO for GWAS with summary statistics
+gwassim,https://github.com/weinstockj/gwassim/,2017,1,0,Code for an R package to simulate GWAS data and implements gene-based tests
+GIGSEA,https://github.com/zhushijia/GIGSEA/,2018,12,1,Genotype Imputed Gene Set Enrichment Analysis using GWAS Summary Level Data
